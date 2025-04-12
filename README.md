@@ -63,7 +63,7 @@ Follow and subscribe to home kitchens or regional favorites for daily or schedul
 
 ---
 
-### 📦 4. Flexible Subscription Plans
+### 📦 4. Track Your Subscriptions & Subscription Plans
 
 Opt for weekly, monthly, or custom plans tailored to your needs and budget. Ideal for students, bachelors, and working professionals.
 
@@ -74,9 +74,10 @@ Opt for weekly, monthly, or custom plans tailored to your needs and budget. Idea
 
 ---
 
-### 🗓️ 5. Track Your Subscriptions
+### 🗓️ 5. Manage your dabba schedule
 
-Stay up-to-date with active, paused, and completed subscriptions. Get timely reminders and monitor your delivery history.
+Easily manage your dabba schedule with flexible delivery times and advance meal planning.  
+Track dabba pickups and earn Green Points for sustainable choices.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="Assets/10.png" alt="Track Subscriptions 1" style="width: 48%; height: auto;"/>
